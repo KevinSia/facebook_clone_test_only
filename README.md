@@ -1,7 +1,7 @@
 ## Simple Facebook clone
 
 
-This is a mock exercise for rails assessment.
+This is a fake exercise for rails assessment.
 
 
 
